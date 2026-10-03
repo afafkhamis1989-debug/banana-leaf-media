@@ -1,8 +1,10 @@
-# Allow-list: this repo is PUBLIC. Only prepared post images and repo docs may be committed.
+# Allow-list: this repo is PUBLIC. Only prepared post media and repo docs may be committed.
 *
 !.gitignore
 !.gitattributes
+!.nojekyll
 !README.md
 !posts/
 !posts/*/
 !posts/*/*.jpg
+!posts/*/*.mp4
