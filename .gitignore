@@ -1,0 +1,8 @@
+# Allow-list: this repo is PUBLIC. Only prepared post images and repo docs may be committed.
+*
+!.gitignore
+!.gitattributes
+!README.md
+!posts/
+!posts/*/
+!posts/*/*.jpg
